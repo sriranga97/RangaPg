@@ -1,5 +1,5 @@
 class kajol{
 
 psvm(s[]args){
-sysout("kajol");
+sysout("kajol,samantha");
 }
